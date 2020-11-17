@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "burgertina",
+            "image": "https://cdn.pixabay.com/photo/2018/11/30/08/36/burger-3847278_960_720.jpg"
+        },
+        {
+            "id": "2",
+            "name": "argentina",
+            "image": "https://cdn.pixabay.com/photo/2019/10/10/14/51/hamburger-4539716_960_720.jpg"
+        }
+    ]
+}
